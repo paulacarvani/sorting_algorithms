@@ -4,6 +4,7 @@
  * swap_ints - Swap two integers in an array.
  * @x: The first integer to swap.
  * @y: The second integer to swap.
+ *
  * Description: Function swap
  */
 void swap(int *x, int *y)
